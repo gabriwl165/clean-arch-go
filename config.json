@@ -1,0 +1,8 @@
+{
+    "database": {
+        "url": "://gabs:admiin@localhost:5432/postgres"
+    },
+    "server": {
+        "port": "3000"
+    }
+}
